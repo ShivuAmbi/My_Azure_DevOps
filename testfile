@@ -5,6 +5,10 @@ s my seconf file on git
 this changes are made through local git repo.
 
 
+<<<<<<< HEAD
 
 this chhages aremade in local reo to check`
 
+=======
+this chnages ate made to cemtral repo
+>>>>>>> refs/remotes/origin/master
